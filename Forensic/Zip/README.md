@@ -8,7 +8,7 @@ Dapatkah kamu menebakku dan menemukanku?
 
 # Flag
 -----------------
-KMTETICTF{congratulation_you_find_me_f23e2ini2u9dx12}
+KMTETICTF{congratulation_you_found_me_f23e2ini2u9dx12}
 
 # Solver
 -----------------
