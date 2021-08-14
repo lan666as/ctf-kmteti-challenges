@@ -1,0 +1,1 @@
+docker build --no-cache -t  acak:latest -f Dockerfile .

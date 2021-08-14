@@ -1,0 +1,1 @@
+sudo docker run -d -p 3007:80 --name acak acak:latest 
