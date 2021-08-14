@@ -1,0 +1,1 @@
+Disallow: /rahasia/dong/droid

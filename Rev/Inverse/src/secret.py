@@ -1,0 +1,1 @@
+FLAG = "KMTETICTF{substitute_and_XOR_r329fuin32klaa__}"

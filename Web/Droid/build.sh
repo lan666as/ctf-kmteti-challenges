@@ -1,0 +1,1 @@
+docker build -t droid:latest -f Dockerfile .

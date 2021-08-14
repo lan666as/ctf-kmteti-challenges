@@ -1,0 +1,1 @@
+docker build -t selamatdatang:latest -f Dockerfile .

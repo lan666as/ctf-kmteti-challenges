@@ -1,0 +1,1 @@
+sudo docker run -d -p 3005:80 --name selamatdatang selamatdatang:latest 

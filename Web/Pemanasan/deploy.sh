@@ -1,0 +1,1 @@
+sudo docker run -d -p 3001:80 --name pemanasan-web pemanasan-web:latest 

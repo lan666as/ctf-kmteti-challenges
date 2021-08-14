@@ -1,0 +1,1 @@
+sudo docker run -d -p 3006:80 --name cobacoba cobacoba:latest 

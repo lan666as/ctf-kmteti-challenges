@@ -1,0 +1,1 @@
+docker build -t pemanasan-web:latest -f Dockerfile .

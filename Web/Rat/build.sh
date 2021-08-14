@@ -1,0 +1,1 @@
+docker build -t rat:latest -f Dockerfile .
