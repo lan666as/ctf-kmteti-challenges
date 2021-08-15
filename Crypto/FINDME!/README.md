@@ -12,6 +12,7 @@ KMTETICTF{NEWT_SCAMAWDER}
 
 # Solver
 -----------------
+Menggabungkan huruf pertama nama tiap kota
 ```
 import requests, re
 
